@@ -9,7 +9,7 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/agnestiw/agnestiw/output/pacman-contribution-graph.svg">
 </picture>
 
-![my cat](https://i.pinimg.com/originals/73/5d/73/735d73725f77188e554756b5e11a2bf1.gif)
+![my cat](img/sleepy_cat.gif)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/agnesti__w) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/agnestiwulan/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:agnestiwulansari605@gmail.com) 
