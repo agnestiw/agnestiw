@@ -22,11 +22,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=agnestiw&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=agnestiw&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-<div align="center">
-  <a href="https://open.spotify.com/user/axnzz">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=axnzz&count=5" alt="Spotify recently played"  />
-  </a>
-</div>
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=a0s16unb1io8qrkva11qjyqfn)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=agnestiw&icon=5&color=0)](https://visitcount.itsvg.in)
