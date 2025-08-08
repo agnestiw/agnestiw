@@ -1,4 +1,16 @@
+<h1 align="center">Hey 👋What's Up?</h1>
+
 ![agnestiw](img/github-header-banner.png)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/agnestiw/agnestiw/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/agnestiw/agnestiw/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/agnestiw/agnestiw/output/pacman-contribution-graph.svg">
+</picture>
+
+<div align="center">
+  <img height="200" src="https://i.pinimg.com/originals/73/5d/73/735d73725f77188e554756b5e11a2bf1.gif"  />
+</div>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/agnesti__w) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/agnestiwulan/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:agnestiwulansari605@gmail.com) 
@@ -10,14 +22,15 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=agnestiw&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=agnestiw&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-#### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
+<div align="center">
+  <a href="https://open.spotify.com/user/axnzz">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=axnzz&count=5" alt="Spotify recently played"  />
+  </a>
+</div>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=agnestiw&icon=5&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 
