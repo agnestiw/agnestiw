@@ -2,15 +2,14 @@
 
 ![agnestiw](img/github-header-banner.png)
 
+<h3 align="center">🎮 Mini Game 🎮</h3>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/agnestiw/agnestiw/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/agnestiw/agnestiw/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/agnestiw/agnestiw/output/pacman-contribution-graph.svg">
 </picture>
 
-<div align="center">
-  <img height="200" src="https://i.pinimg.com/originals/73/5d/73/735d73725f77188e554756b5e11a2bf1.gif"  />
-</div>
+![](https://i.pinimg.com/originals/73/5d/73/735d73725f77188e554756b5e11a2bf1.gif)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/agnesti__w) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/agnestiwulan/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:agnestiwulansari605@gmail.com) 
@@ -22,6 +21,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=agnestiw&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=agnestiw&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
+## 🎵 My Playlist:
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=a0s16unb1io8qrkva11qjyqfn)
 
 ---
